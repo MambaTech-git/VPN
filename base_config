@@ -1,1 +1,19 @@
-- teset
+{
+  "new_version": [
+    {
+      "version": 110,
+      "use_gp": true
+    },
+    {
+      "version": 110,
+      "use_gp": true
+    },
+    {
+      "version": 110,
+      "use_gp": true
+    }
+  ],
+  "gp_link": "http://play.google.com/store/apps/details?id=com.exnor.vray",
+  "update_log": "更新不可用的线路，请及时更新 \n Update all the lines, make sure it works",
+  "apk_link": ""
+}
